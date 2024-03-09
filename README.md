@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SAGNIK</h1>
 <h3 align="center">A passionate tech learner</h3>
-<img align="right" alt="Coding" width="400" src="https://gifs.alphacoders.com/gifs/view/221575">
+<img align="right" alt="Coding" width="400" src="https://gifs.alphacoders.com/gifs/view/221575.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnik-d10&label=Profile%20views&color=0e75b6&style=flat" alt="sagnik-d10" /> </p>
 
