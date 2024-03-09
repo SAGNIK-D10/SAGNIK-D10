@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SAGNIK</h1>
 <h3 align="center">A passionate tech learner</h3>
-<img align="right" alt="Coding" width="400" src="https://gifs.alphacoders.com/gifs/view/221574">
+<img align="right" alt="Coding" width="400" src="https://gifs.alphacoders.com/gifs/view/221577">
 
 
 
