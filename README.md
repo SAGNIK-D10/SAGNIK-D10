@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm SAGNIK</h1>
 <h3 align="center">A passionate tech learner</h3>
-<img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/221/221577.gif">
-
-
+<img align="right" alt="Coding" width="400" src="https://gifs.alphacoders.com/gifs/view/221575">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagnik-d10&label=Profile%20views&color=0e75b6&style=flat" alt="sagnik-d10" /> </p>
 
@@ -16,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/sagnik_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sagnik_d" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sagnik das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagnik das" height="30" width="40" /></a>
-<a href="https://instagram.com/sagnik_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagnik_d" height="30" width="40" /></a>
+<a href="https://instagram.com/s_a_g_n_i_k__d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_a_g_n_i_k__d" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sagnik-d10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sagnik-d10" height="30" width="40" /></a>
 </p>
 
