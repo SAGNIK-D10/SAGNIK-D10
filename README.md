@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SAGNIK</h1>
+<h1 align="center">Hi 👋, I'm RIK</h1>
 <h3 align="center">A passionate tech learner</h3>
 <img align="right" alt="Coding" width="400" src="https://giffiles.alphacoders.com/221/221575.gif">
 
